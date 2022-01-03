@@ -1,4 +1,4 @@
 # HackerOneSpider
-Through the simple processing of json data, the script that crawls the scope of the HackerOne manufacturer's report.
+This is a script that crawls the vulnerability collection scope of HackerOne vendors through simple processing of json data.
 
 ![image](https://github.com/rebootORZ/HackerOneSpider/blob/main/imgs/20220103231522.jpg)
